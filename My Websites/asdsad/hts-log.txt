@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 May 2018 14:18:13 at http://moralmachine.mit.edu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://moralmachine.mit.edu/ -O1 "C:\My Websites\asdsad" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:18:16	Warning: 	Link moralmachine.mit.edu/ not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 3 links scanned, 2 files written (47661 bytes overall) [12198 bytes received at 3049 bytes/sec], 47661 bytes transferred using HTTP compression in 2 files, ratio 24%
+(No errors, 1 warnings, 0 messages)

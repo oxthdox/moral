@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:18:15	13376/13376	---MCZ	200	added ('OK')	text/html	date:Sat,%2019%20May%202018%2006:18:11%20GMT	http://moralmachine.mit.edu/	C:/My%20Websites/asdsad/moralmachine.mit.edu/index.html	(from )
+14:18:15	0/0	---M--	404	error ('Not%20Found')	text/plain	date:Sat,%2019%20May%202018%2006:18:10%20GMT	http://moralmachine.mit.edu/robots.txt		(from )
+14:18:17	34285/34285	---MCZ	200	added ('OK')	text/css	etag:%22547f82eb95aabaee784182c415f91be1c180fb38%22	http://moralmachine.mit.edu/547f82eb95aabaee784182c415f91be1c180fb38.css?meteor_css_resource=true	C:/My%20Websites/asdsad/moralmachine.mit.edu/547f82eb95aabaee784182c415f91be1c180fb38d214.css	(from http://moralmachine.mit.edu/)

@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+moralmachine.mit.edu	TRUE	/	FALSE	1999999999	galaxy-sticky	mHPx6osqPCrnXfY6g-y7ec0
+
